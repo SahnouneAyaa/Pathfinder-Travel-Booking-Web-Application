@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "author": "TravelEnthusiast",
+    "date": "May 20, 2021",
+    "content": "This was such an inspiring read! I'm already planning my next adventure. Thanks for the great tips!",
+    "parentId": null,
+    "like": { "count": 96, "isLiked": false },
+    "childrens": null
+  },
+  {
+    "id": 3,
+    "author": "Wanderlust_Dreamer",
+    "date": "May 20, 2021",
+    "content": "Really insightful post. The part about [mention a hypothetical topic from the blog] really resonated with me. Keep up the amazing work!",
+    "parentId": 7,
+    "like": { "count": 66, "isLiked": true },
+    "childrens": null
+  },
+  {
+    "id": 4,
+    "author": "AdventureSeeker",
+    "date": "May 20, 2021",
+    "content": "Fantastic article! I learned so much, especially about [mention another hypothetical topic]. This is going straight into my travel planning folder.",
+    "parentId": 1,
+    "like": { "count": 45, "isLiked": true },
+    "childrens": null
+  },
+  {
+    "id": 6,
+    "author": "GlobalTrots",
+    "date": "May 20, 2021",
+    "content": "Well-written and very engaging! I appreciate the practical advice you've included. Definitely sharing this with my friends.",
+    "parentId": null,
+    "like": { "count": 45, "isLiked": false },
+    "childrens": null
+  },
+  {
+    "id": 7,
+    "author": "ExploreMore",
+    "date": "May 20, 2021",
+    "content": "Excellent points made here. It's great to see a blog that really dives deep into its topics. Loved it!",
+    "parentId": null,
+    "like": { "count": 30, "isLiked": true },
+    "childrens": null
+  },
+  {
+    "id": 8,
+    "author": "JourneyJunkie",
+    "date": "May 20, 2021",
+    "content": "This is exactly what I needed to read today! Super motivating and full of actionable insights. Thank you!",
+    "parentId": null,
+    "like": { "count": 100, "isLiked": false },
+    "childrens": null
+  },
+  {
+    "id": 9,
+    "author": "RoadTripReady",
+    "date": "May 20, 2021",
+    "content": "Couldn't agree more with your perspective on [hypothetical topic]. So true and well-explained!",
+    "parentId": 3,
+    "like": { "count": 95, "isLiked": false },
+    "childrens": null
+  },
+  {
+    "id": 10,
+    "author": "CulturalExplorer",
+    "date": "May 20, 2021",
+    "content": "Your writing style is fantastic! I always look forward to your new posts. Keep them coming!",
+    "parentId": 4,
+    "like": { "count": 56, "isLiked": false },
+    "childrens": null
+  }
+]
