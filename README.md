@@ -1,4 +1,4 @@
-# ✈️ Pathfinder – Travel Booking Web Application
+# Pathfinder – Travel Booking Web Application
 
 A large-scale travel booking web application built with Next.js and TypeScript, designed to simulate a complete platform for discovering and reserving stays, experiences, cars, and flights.
 
