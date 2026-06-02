@@ -2,7 +2,6 @@
 
 A large-scale travel booking web application built with Next.js and TypeScript, designed to simulate a complete platform for discovering and reserving stays, experiences, cars, and flights.
 
----
 
 ## Overview
 
@@ -12,14 +11,13 @@ The project focuses on building a scalable frontend architecture, handling compl
 
 It was developed as part of an advanced learning journey, with an emphasis on real-world application structure and user experience design.
 
----
 
 ## Core Features
 
 ### 🌍 Exploration & Discovery
-- Browse stays, experiences cars, and real estate
+- Browse stays, experiences cars and real estate
 - Advanced filtering system
-- Detailed item pages with descriptions, ratings, and reviews
+- Detailed item pages with descriptions, ratings and reviews
 
 ### 📅 Booking Experience
 - Reservation flow UI
@@ -53,30 +51,7 @@ It was developed as part of an advanced learning journey, with an emphasis on re
 - Contact
 - Help
 
----
 
-## UI Structure
-
-- Home page (multi-section landing)
-- Explore pages (multi-category browsing)
-- Product details pages
-- Booking flow UI
-- User dashboard
-- Wishlist & saved items
-- Blog & content pages
-
----
-
-## Features & Highlights
-
-- Complex multi-domain booking interface
-- Scalable and modular component architecture
-- Advanced state handling patterns
-- Clean and modern UI design system
-- Responsive design across devices
-- Rich user experience with animations
-
----
 
 ## Tech Stack
 
